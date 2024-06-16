@@ -51,5 +51,3 @@ void deleta_livro(aluno *palu, livro *pliv): Deleta o registro de um livro. void
 Requisitos
 
 Compilador C (por exemplo, GCC) Sistema operacional compatível com a linguagem C (Windows, Linux, macOS)
-
-Considerações Finais Este sistema é uma solução básica para o gerenciamento de empréstimos e reservas de livros. Pode ser expandido e melhorado com funcionalidades adicionais, como a integração com um banco de dados ou a criação de uma interface gráfica.****
